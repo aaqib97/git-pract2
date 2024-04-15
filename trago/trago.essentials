@@ -27,3 +27,9 @@ https://ecodialerdev.ecosmob.net:9081/auth/auth/login
 ecodialerdev
 Ecodialer@123
 
+######################## TRAGO CFG #######################################
+dev env
+exec- This Command :
+docker exec -it opensips bash
+and than go to /url/local/etc/opensips/opensips.cfg
+
